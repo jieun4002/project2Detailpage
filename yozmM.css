@@ -57,13 +57,13 @@ header h3{ font-size: 19px; font-weight: 400;}
 .section .img{ position: relative;  margin-bottom: 200px;}
 .section .img p{ text-indent: -9999px; margin: 0;  box-shadow: 5px 5px 10px;}
 .section .img p:first-child{
-  background: url(../images/img2.png) no-repeat 50% /cover;
+  background: url(images/img2.png) no-repeat 50% /cover;
   width: 216px; height: 70px;
   margin: 30px 0 0 50px;
  
 }
 .section .img p:last-child{
-  background:url(../images/img1.png) no-repeat 50% /cover;
+  background:url(images/img1.png) no-repeat 50% /cover;
   width: 202px; height: 61px;
   position: absolute;
   top: 60%;
@@ -98,10 +98,10 @@ header h3{ font-size: 19px; font-weight: 400;}
 .color .logo { margin: 30px auto; }
 .color .logo p{ margin: 0 auto; text-indent: -9999px;}
 .color .logo p:first-child{
-  background: url(../images/logo1.png) no-repeat 50% / contain;
+  background: url(images/logo1.png) no-repeat 50% / contain;
   width: 256px; height: 121px;
 }
-.color .logo p:last-child{ background: url(../images/logo2.png) no-repeat 50%/ contain; 
+.color .logo p:last-child{ background: url(images/logo2.png) no-repeat 50%/ contain; 
   width: 322px; height: 65px; margin: 50px auto;
 }
 .typo h3{ width:320px;box-sizing: border-box; border-bottom: 2px #000 solid; margin:0 auto; font-size: 18px; padding: 20px 0; margin-top: 110px;}
